@@ -1,0 +1,3 @@
+Las etiquetas HTML le dan estructura a una página web. Puedes usar etiquetas HTML para agregar fotos, botones y otros elementos a tu página web.
+
+En este curso, aprenderá las etiquetas HTML más comunes creando su propia aplicación de fotografías de gatos.

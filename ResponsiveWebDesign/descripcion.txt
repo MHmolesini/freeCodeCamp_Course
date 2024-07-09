@@ -1,0 +1,7 @@
+En esta Certificación de Diseño Web Responsivo, aprenderá los lenguajes que usan los desarrolladores para crear páginas web: HTML (lenguaje de marcado de hipertexto) para contenido y CSS (hojas de estilo en cascada) para diseño.
+
+Primero, crearás una aplicación de fotos de gatos para aprender los conceptos básicos de HTML y CSS. Más adelante, aprenderás técnicas modernas, como las variables CSS, creando un pingüino y las mejores prácticas de accesibilidad creando un sitio de cuestionarios.
+
+Por último, aprenderá a crear páginas web que respondan a diferentes tamaños de pantalla mediante la creación de una galería de fotos con Flexbox y un diseño de artículo de revista con CSS Grid.
+
+Nota: Algunas extensiones del navegador, como los bloqueadores de anuncios y las extensiones de modo oscuro, pueden interferir con las pruebas. Si tienes problemas, te recomendamos que deshabilites las extensiones que modifican el contenido o el diseño de las páginas mientras realizas el curso.
